@@ -1,0 +1,32 @@
+{
+    "cannabis": [
+        {
+          "id": 1,
+          "category": 1,
+          "title": "3C Cristal Skull OG",
+          "image": "assets/cannabis/image-1.png"
+        },
+        {
+          "id": 2,
+          "category": 1,
+          "title": "3C Cristal Skull OG",
+          "image": "assets/cannabis/image-1.png"
+        },
+        {
+          "id": 3,
+          "category": 2,
+          "title": "3C Strawberry fields",
+          "image": "assets/cannabis/image-1.png"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Indica"
+        },
+        {
+            "id": 2,
+            "name": "Sativa & CBD"
+        }
+    ]
+  }
