@@ -1,8 +1,7 @@
 {
-  "indica": [
+  "cannabis": [
       {
         "id": 1,
-        "category": 1,
         "title": "3C Cristal Skull OG",
         "image": "assets/cannabis/image-1.png"
       },
@@ -17,27 +16,25 @@
         "category": 1,
         "title": "3C Strawberry fields",
         "image": "assets/cannabis/image-1.png"
+      },
+      {
+        "id": 4,
+        "category": 2,
+        "title": "3C Cristal Skull OG",
+        "image": "assets/cannabis/image-1.png"
+      },
+      {
+        "id": 5,
+        "category": 2,
+        "title": "3C Cristal Skull OG",
+        "image": "assets/cannabis/image-1.png"
+      },
+      {
+        "id": 6,
+        "category": 2,
+        "title": "3C Strawberry fields",
+        "image": "assets/cannabis/image-1.png"
       }
-  ],
-    "sativa": [
-        {
-          "id": 4,
-          "category": 2,
-          "title": "3C Cristal Skull OG",
-          "image": "assets/cannabis/image-1.png"
-        },
-        {
-          "id": 5,
-          "category": 2,
-          "title": "3C Cristal Skull OG",
-          "image": "assets/cannabis/image-1.png"
-        },
-        {
-          "id": 6,
-          "category": 2,
-          "title": "3C Strawberry fields",
-          "image": "assets/cannabis/image-1.png"
-        }
     ],
     "categories": [
         {
