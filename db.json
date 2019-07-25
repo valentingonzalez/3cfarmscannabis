@@ -3,22 +3,52 @@
     "Indica": [
       {
         "id": 1,
-        "title": "3C Cristal Skull OG",
+        "title": "3C Grape Krush",
+        "excerpt": "<p>These citrus buds of stark Orange pistos and neon greeen calyxes, carry the distinctive scent of fresh tangerines. Motivating and clear-headed.</p>",
+        "description": "<p>Grape Crush (or Grapekrush) is an indica-heavy hybrid strain with just enough sativa to keep the high energizing and smooth. This plant was bred by DJ Short to be an outdoor grower, but with the right TLC, Grape Crush delivers indoors as well. The strain comes from Blueberry parents and inherited their purple to blue coloring and their namesake berry flavor. Grape Crush plants flower in 8-9 weeks, and the buds are intended to produce a slow-moving high that relaxes the body and inspires the mind.</p>",
         "image": "assets/cannabis/image-1.png",
+        "images": [
+          "https://3cfarms.com/wp-content/uploads/2018/08/3c-Grape-Krush-top.jpg",
+          "https://3cfarms.com/wp-content/uploads/2018/08/3c-grape-krush-jar.jpg",
+          "https://3cfarms.com/wp-content/uploads/2018/08/3c-grape-krush.jpg",
+          "https://3cfarms.com/wp-content/uploads/2018/08/Dark-Series-Grape.jpg"
+        ],
+        "flavors": ["grape", "sweet", "earthy"],
+        "flavor": 8,
         "category": "Indica"
       },
       {
         "id": 2,
-        "title": "3C Cristal Skull OG",
+        "title": "3C Illuminati OG",
+        "excerpt": "Reversed for this incredibly potency, this phoneme of josh D’s the orignal OG Kush delivers with gorgeous bud structure & deep sweet pine flavour.",
+        "description": "<p>3C Illuminati OG is a direct cut from Josh D’s 1996 Club 33 OG phenome and makes up the genetic backbone of many west coast cannabis varieties. In spite of its ubiquity, its origins remain a debatable mystery (as its name suggests). The colas are a blend of beautiful green tones and its scent is fresh and piney. Illuminati’s denseness hits the tongue with a blast of pine and a touch of tar, just to be followed by a subtle floral sweetness. Its effects set in very quickly, starting with a relaxation that begins at the crown of the head and melts over the entire body.</p><h5>DISPENSARY DESCRIPTION</h5><p>3C Illuminati OG is a direct cut from Josh D’s 1996 Club 33 OG Phenome and makes up the genetic backbone of West Coast cannabis varieties. In spite of its ubiquity, its origins remain a debatable mystery—much like its namesake. The buds are a blend of beautiful green tones, ranging from bright lime greens to deeper piney shades, with auburn pistons. It’s scent is fresh and piney, followed by a waft of sweetness. It’s flavor acts much in the same way—The Illuminati’s dense smoke hits the tongue with a blast of pine & a touch of tar, just to be followed by a subtle floral sweetness. The effects of this heavy Indica onset very quickly, starting with a relaxation that begins at the crown and melts throughout the entire body. An instant classic.</p>",
         "image": "assets/cannabis/image-1.png",
+        "images": [
+          "assets/cannabis/grape-krush-1.png",
+          "assets/cannabis/grape-krush-2.png",
+          "assets/cannabis/grape-krush-3.png",
+          "assets/cannabis/grape-krush-4.png"
+        ],
+        "flavors": ["grape", "sweet", "earthy"],
+        "flavor": 7,
         "category": "Indica"
       },
       {
         "id": 3,
-        "title": "3C Cristal Skull OG",
+        "title": "3C Grape Krush",
+        "excerpt": "<p>These citrus buds of stark Orange pistos and neon greeen calyxes, carry the distinctive scent of fresh tangerines. Motivating and clear-headed.</p>",
+        "description": "Grape Crush (or Grapekrush) is an indica-heavy hybrid strain with just enough sativa to keep the high energizing and smooth. This plant was bred by DJ Short to be an outdoor grower, but with the right TLC, Grape Crush delivers indoors as well. The strain comes from Blueberry parents and inherited their purple to blue coloring and their namesake berry flavor. Grape Crush plants flower in 8-9 weeks, and the buds are intended to produce a slow-moving high that relaxes the body and inspires the mind.",
         "image": "assets/cannabis/image-1.png",
+        "images": [
+          "assets/cannabis/grape-krush-1.png",
+          "assets/cannabis/grape-krush-2.png",
+          "assets/cannabis/grape-krush-3.png",
+          "assets/cannabis/grape-krush-4.png"
+        ],
+        "flavors": ["grape", "sweet", "earthy"],
+        "flavor": 8,
         "category": "Indica"
-      }
+      },
     ],
     "Sativa": [
       {
