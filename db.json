@@ -48,7 +48,7 @@
         "flavors": ["grape", "sweet", "earthy"],
         "flavor": 8,
         "category": "Indica"
-      },
+      }
     ],
     "Sativa": [
       {
