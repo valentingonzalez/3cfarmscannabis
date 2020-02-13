@@ -65,7 +65,7 @@
         ],
         "flavors": ["Sweet", "Sour", "Orange"],
         "mix": 1,
-        "category": "Sativa"
+        "category": "Sativa & CBD"
       },
       {
         "id": 2,
@@ -80,7 +80,7 @@
         ],
         "flavors": [],
         "mix": "2:1 CBD:THC",
-        "category": "Sativa"
+        "category": "Sativa & CBD"
       },
       {
         "id": 3,
@@ -96,7 +96,7 @@
         ],
         "flavors": ["Skunk", "Orange", "Piney"],
         "mix": "20:1 CBD:THC",
-        "category": "Sativa"
+        "category": "Sativa & CBD"
       }
     ]
   }
