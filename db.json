@@ -52,7 +52,7 @@
     ],
     "Sativa": [
       {
-        "id": 1,
+        "id": 4,
         "title": "3C Agent Tangie",
         "excerpt": "These citrus buds of stark orange pistons and neon green calyxes, carry the distinctive scent of fresh tangerines. Motivating and clear-headed.",
         "description": "For those craving a cerebral buzz with a citrus kick, 3C Agent Tangie is perfect. The glittery colas are light green with a zesty, floral flavor. Its effects linger in the crown of the skull and disperse throughout the body in steady waves of invigoration. This strain may assist those suffering from perpetual procrastination, depression, and fatigue.<br /><h5>DISPENSARY DESCRIPTION</h5>Agent Tangie For those craving a cerebral buzz with a citrus kick, 3C Agent Tangie is perfect. This hybrid blend of Sativa deliciousness has true Crockett Farm genetics to back up its phenomenal effect. The glittery cholas are light green off-setting the stark orange pistons that give the 3C Agent Tangie its characteristic orange citrus buds. The sticky trichomes fill your nose with a tropical invitation to indulge. The zesty and efflorescent flavor hits just as a tickly head high takes effect. 3C Agent Tangie is a great assistance to the perpetual procrastinator.",
@@ -68,7 +68,7 @@
         "category": "Sativa & CBD"
       },
       {
-        "id": 2,
+        "id": 5,
         "title": "3C AC OG",
         "excerpt": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
         "description": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
@@ -83,7 +83,7 @@
         "category": "Sativa & CBD"
       },
       {
-        "id": 3,
+        "id": 6,
         "title": "3C ACDC",
         "excerpt": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
         "description": "ACDC is a sativa-dominant phenotype of the high CBD cannabis strain, Cannatonic. One remarkable characteristic of ACDC is it’s THC:CBD ratio of 1:20, meaning this strain induces no psychoactive effects. Tests have put our 3C ACDC’S CBD content as high as 20.5% which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
@@ -99,5 +99,102 @@
         "category": "Sativa & CBD"
       }
     ]
-  }
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "3C Grape Krush",
+      "excerpt": "These citrus buds of stark Orange pistos and neon greeen calyxes, carry the distinctive scent of fresh tangerines. Motivating and clear-headed.",
+      "description": "Grape Crush (or Grapekrush) is an indica-heavy hybrid strain with just enough sativa to keep the high energizing and smooth. This plant was bred by DJ Short to be an outdoor grower, but with the right TLC, Grape Crush delivers indoors as well. The strain comes from Blueberry parents and inherited their purple to blue coloring and their namesake berry flavor. Grape Crush plants flower in 8-9 weeks, and the buds are intended to produce a slow-moving high that relaxes the body and inspires the mind.",
+      "image": "https://picsum.photos/200",
+      "images": [
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-Grape-Krush-top.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-grape-krush-jar.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-grape-krush.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/Dark-Series-Grape.jpg"
+      ],
+      "flavors": ["grape", "sweet", "earthy"],
+      "mix": 8,
+      "category": "Indica"
+    },
+    {
+      "id": 2,
+      "title": "3C Illuminati OG",
+      "excerpt": "Reversed for this incredibly potency, this phoneme of josh D’s the orignal OG Kush delivers with gorgeous bud structure & deep sweet pine flavour.",
+      "description": "3C Illuminati OG is a direct cut from Josh D’s 1996 Club 33 OG phenome and makes up the genetic backbone of many west coast cannabis varieties. In spite of its ubiquity, its origins remain a debatable mystery (as its name suggests). The colas are a blend of beautiful green tones and its scent is fresh and piney. Illuminati’s denseness hits the tongue with a blast of pine and a touch of tar, just to be followed by a subtle floral sweetness. Its effects set in very quickly, starting with a relaxation that begins at the crown of the head and melts over the entire body.<br /><h5>DISPENSARY DESCRIPTION</h5>3C Illuminati OG is a direct cut from Josh D’s 1996 Club 33 OG Phenome and makes up the genetic backbone of West Coast cannabis varieties. In spite of its ubiquity, its origins remain a debatable mystery—much like its namesake. The buds are a blend of beautiful green tones, ranging from bright lime greens to deeper piney shades, with auburn pistons. It’s scent is fresh and piney, followed by a waft of sweetness. It’s flavor acts much in the same way—The Illuminati’s dense smoke hits the tongue with a blast of pine & a touch of tar, just to be followed by a subtle floral sweetness. The effects of this heavy Indica onset very quickly, starting with a relaxation that begins at the crown and melts throughout the entire body. An instant classic.",
+      "image": "https://picsum.photos/200",
+      "images": [
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-illuminati-og-top.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-illuminati-og-jar.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-illuminati-og.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/Illuminatiog2.jpg"
+      ],
+      "flavors": ["sweet", "sour", "piney"],
+      "mix": 7,
+      "category": "Indica"
+    },
+    {
+      "id": 3,
+      "title": "3C Kush Kookies",
+      "excerpt": "Big-strawberry-shaped buds matched with a sweet berry flavor pallete that excites the senses and illuminates the imagination.",
+      "description": "Big-strawberry-shaped buds matched with a sweet berry flavor pallete that excites the senses and illuminates the imagination.",
+      "image": "https://picsum.photos/200",
+      "images": [
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-kush-kookies-jar.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-kush-kookies-top.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-kush-kookies.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/Kush-Kookies.jpg"
+      ],
+      "flavors": [],
+      "mix": 8,
+      "category": "Indica"
+    },
+    {
+      "id": 4,
+      "title": "3C Agent Tangie",
+      "excerpt": "These citrus buds of stark orange pistons and neon green calyxes, carry the distinctive scent of fresh tangerines. Motivating and clear-headed.",
+      "description": "For those craving a cerebral buzz with a citrus kick, 3C Agent Tangie is perfect. The glittery colas are light green with a zesty, floral flavor. Its effects linger in the crown of the skull and disperse throughout the body in steady waves of invigoration. This strain may assist those suffering from perpetual procrastination, depression, and fatigue.<br /><h5>DISPENSARY DESCRIPTION</h5>Agent Tangie For those craving a cerebral buzz with a citrus kick, 3C Agent Tangie is perfect. This hybrid blend of Sativa deliciousness has true Crockett Farm genetics to back up its phenomenal effect. The glittery cholas are light green off-setting the stark orange pistons that give the 3C Agent Tangie its characteristic orange citrus buds. The sticky trichomes fill your nose with a tropical invitation to indulge. The zesty and efflorescent flavor hits just as a tickly head high takes effect. 3C Agent Tangie is a great assistance to the perpetual procrastinator.",
+      "image": "https://picsum.photos/200",
+      "images": [
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-agent-tangie-top.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-agent-tangie-jar.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-agent-tangie.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/The-Dark-Series-Agent-Tangie.jpg"
+      ],
+      "flavors": ["Sweet", "Sour", "Orange"],
+      "mix": 1,
+      "category": "Sativa & CBD"
+    },
+    {
+      "id": 5,
+      "title": "3C AC OG",
+      "excerpt": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
+      "description": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
+      "image": "https://picsum.photos/200",
+      "images": [
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-ac-og-1.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3C-AC-OG-top.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-ac-og-jar-2.jpg"
+      ],
+      "flavors": [],
+      "mix": "2:1 CBD:THC",
+      "category": "Sativa & CBD"
+    },
+    {
+      "id": 6,
+      "title": "3C ACDC",
+      "excerpt": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
+      "description": "ACDC is a sativa-dominant phenotype of the high CBD cannabis strain, Cannatonic. One remarkable characteristic of ACDC is it’s THC:CBD ratio of 1:20, meaning this strain induces no psychoactive effects. Tests have put our 3C ACDC’S CBD content as high as 20.5% which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
+      "image": "https://picsum.photos/200",
+      "images": [
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-acdc-top.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-acdc-jar.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/3c-acdc.jpg",
+        "https://3cfarms.com/wp-content/uploads/2018/08/ACDC-here-she-is.jpg"
+      ],
+      "flavors": ["Skunk", "Orange", "Piney"],
+      "mix": "20:1 CBD:THC",
+      "category": "Sativa & CBD"
+    }
+  ]
 }
