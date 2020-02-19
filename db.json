@@ -2,9 +2,10 @@
   "products": [
     {
       "id": 1,
-      "title": "3C Grape Krush",
-      "excerpt": "These citrus buds of stark Orange pistos and neon greeen calyxes, carry the distinctive scent of fresh tangerines. Motivating and clear-headed.",
-      "description": "Grape Crush (or Grapekrush) is an indica-heavy hybrid strain with just enough sativa to keep the high energizing and smooth. This plant was bred by DJ Short to be an outdoor grower, but with the right TLC, Grape Crush delivers indoors as well. The strain comes from Blueberry parents and inherited their purple to blue coloring and their namesake berry flavor. Grape Crush plants flower in 8-9 weeks, and the buds are intended to produce a slow-moving high that relaxes the body and inspires the mind.",
+      "category": "Indica",
+      "mix": 0,
+      "title": "CLUB 33 OG",
+      "genetics": "The Original OG Kush ",
       "image": "https://picsum.photos/200?random=1",
       "images": [
         "https://picsum.photos/500?random=1",
@@ -12,88 +13,578 @@
         "https://picsum.photos/500?random=3",
         "https://picsum.photos/500?random=4"
       ],
-      "flavors": ["grape", "sweet", "earthy"],
-      "mix": 8,
-      "category": "Indica"
+      "origin": "",
+      "aroma": "Piney, Gas, Skunky",
+      "effect": "Long-Lasting, Euphoric, Cerebral, Sedative, Well-Rounded",
+      "strainmap": "The Original OG. Potent, pure, and legendary. Shrouded in mystery, like its namesake.",
+      "conspiracy": "To occultists and secret societies like the Freemasons, 33 is more than a number. In numerology, 33 is a symbol of higher spiritual consciousness, the most significant of the master numbers (which also include 11 and 22). In Freemasonry, the highest order is the 33 Degrees of the Scottish Rite. Following Franklin Roosevelt’s death, Harry Truman, a 33 Degree Mason, became the 33rd President of the United States. Next time you look at the UN flag, you may notice the world divided into 33 sections, encircled by olive branches. Keep an eye out for the number  33. You might just start to see it everywhere.",
+      "description": "Club 33 OG, or the “Original OG Kush,” is a world-famous strain with ancestry from the Hindu Kush Mountains of Afghanistan. The strain started its transformation to its current phenotype in the early 1990’s in Florida when Matt “Bubba” Berger accidentally crossed two strains. The resulting cultivar was further perfected and introduced to the California by Josh D later that decade. Since then, it has served as the “grandmother” strain to almost every current iteration of the Kush variety. Infamously difficult to grow well, many growers have tried and failed to propagate the strain to its maximum potential. At 3C farms, we take particular pride in our OG strains, from the aforementioned Club 33 to its cousins including Kushishima, Enoch, Tahoe, and Illuminati."
     },
     {
       "id": 2,
-      "title": "3C Illuminati OG",
-      "excerpt": "Reversed for this incredibly potency, this phoneme of josh D’s the orignal OG Kush delivers with gorgeous bud structure & deep sweet pine flavour.",
-      "description": "3C Illuminati OG is a direct cut from Josh D’s 1996 Club 33 OG phenome and makes up the genetic backbone of many west coast cannabis varieties. In spite of its ubiquity, its origins remain a debatable mystery (as its name suggests). The colas are a blend of beautiful green tones and its scent is fresh and piney. Illuminati’s denseness hits the tongue with a blast of pine and a touch of tar, just to be followed by a subtle floral sweetness. Its effects set in very quickly, starting with a relaxation that begins at the crown of the head and melts over the entire body.<br /><h5>DISPENSARY DESCRIPTION</h5>3C Illuminati OG is a direct cut from Josh D’s 1996 Club 33 OG Phenome and makes up the genetic backbone of West Coast cannabis varieties. In spite of its ubiquity, its origins remain a debatable mystery—much like its namesake. The buds are a blend of beautiful green tones, ranging from bright lime greens to deeper piney shades, with auburn pistons. It’s scent is fresh and piney, followed by a waft of sweetness. It’s flavor acts much in the same way—The Illuminati’s dense smoke hits the tongue with a blast of pine & a touch of tar, just to be followed by a subtle floral sweetness. The effects of this heavy Indica onset very quickly, starting with a relaxation that begins at the crown and melts throughout the entire body. An instant classic.",
-      "image": "https://picsum.photos/200?random=2",
+      "category": "Indica",
+      "mix": 0,
+      "title": "KUSHUSHIMA OG",
+      "genetics": "Kosher Kush",
+      "image": "https://picsum.photos/200?random=1",
       "images": [
         "https://picsum.photos/500?random=1",
         "https://picsum.photos/500?random=2",
         "https://picsum.photos/500?random=3",
         "https://picsum.photos/500?random=4"
       ],
-      "flavors": ["sweet", "sour", "piney"],
-      "mix": 7,
-      "category": "Indica"
+      "origin": "",
+      "aroma": "Piney, Earthy, Skunky",
+      "effect": "Hard-Hitting, Sedative, Relaxing",
+      "strainmap": "A tsunami of relaxation floods your body and mind.",
+      "conspiracy": " On March 11, 2011, the devastating Great Sendai Earthquake and the resulting tsunamis wreaked havoc in Japan. In Fukushima, the Tsunamis lead to one of the worst nuclear disasters in history. From the day of the meltdown, the Japanese government denied and tried to cover-up the severity of the disaster. Why? What are they really hiding?",
+      "description": "Kushushima, or “Kosher Kush”, one of the first descendants of Josh D’s original “OG Kush”,is famous for being the first strain to be blessed by a Rabbi, an honor it certainly deserves. One of the most pungent and potent strains in the “OG” category, Kushushima will leave you feeling blessedly blissful."
     },
     {
       "id": 3,
-      "title": "3C Kush Kookies",
-      "excerpt": "Big-strawberry-shaped buds matched with a sweet berry flavor pallete that excites the senses and illuminates the imagination.",
-      "description": "Big-strawberry-shaped buds matched with a sweet berry flavor pallete that excites the senses and illuminates the imagination.",
-      "image": "https://picsum.photos/200?random=3",
+      "category": "Indica",
+      "mix": 0,
+      "title": "ILLUMINATI OG",
+      "genetics": "OG Kush",
+      "image": "https://picsum.photos/200?random=1",
       "images": [
         "https://picsum.photos/500?random=1",
         "https://picsum.photos/500?random=2",
         "https://picsum.photos/500?random=3",
         "https://picsum.photos/500?random=4"
       ],
-      "flavors": [],
-      "mix": 8,
-      "category": "Indica"
+      "origin": " Bryan’s Personal OG Cut",
+      "aroma": "Piney, Gas, Skunky",
+      "effect": "Well-Rounded, Euphoric, Cerebral, Sedative",
+      "strainmap": "The secret ruler of this world that reveals itself in everything you see. This OG can enlighten you.",
+      "conspiracy": " The Illuminati are suspected by many to be plotting the creation of a New World Order, a singular, all-powerful world government. Many populists, such as members of the John Birch Society believe that some collegiate fraternities, such as the Skull and Bones of Yale, gentlemen's clubs, such as the Bohemian Club, and think tanks such as the Council on Foreign Relations and the Trilateral Commission, are just front organizations of the Illuminati. ",
+      "description": "Bryan’s personal cut of Josh D’s original “OG Kush,” Illuminati OG is a rare and highly coveted strain. Enjoyed by many A-list celebrities and power brokers, Illuminati OG is our most popular OG strain due to its well-rounded effects."
     },
     {
       "id": 4,
-      "title": "3C Agent Tangie",
-      "excerpt": "These citrus buds of stark orange pistons and neon green calyxes, carry the distinctive scent of fresh tangerines. Motivating and clear-headed.",
-      "description": "For those craving a cerebral buzz with a citrus kick, 3C Agent Tangie is perfect. The glittery colas are light green with a zesty, floral flavor. Its effects linger in the crown of the skull and disperse throughout the body in steady waves of invigoration. This strain may assist those suffering from perpetual procrastination, depression, and fatigue.<br /><h5>DISPENSARY DESCRIPTION</h5>Agent Tangie For those craving a cerebral buzz with a citrus kick, 3C Agent Tangie is perfect. This hybrid blend of Sativa deliciousness has true Crockett Farm genetics to back up its phenomenal effect. The glittery cholas are light green off-setting the stark orange pistons that give the 3C Agent Tangie its characteristic orange citrus buds. The sticky trichomes fill your nose with a tropical invitation to indulge. The zesty and efflorescent flavor hits just as a tickly head high takes effect. 3C Agent Tangie is a great assistance to the perpetual procrastinator.",
-      "image": "https://picsum.photos/200?random=4",
+      "category": "Indica",
+      "mix": 0,
+      "title": "CRYSTAL SKULL OG",
+      "origin": "Gifted by Moxie",
+      "image": "https://picsum.photos/200?random=1",
       "images": [
         "https://picsum.photos/500?random=1",
         "https://picsum.photos/500?random=2",
         "https://picsum.photos/500?random=3",
         "https://picsum.photos/500?random=4"
       ],
-      "flavors": ["Sweet", "Sour", "Orange"],
-      "mix": 1,
-      "category": "Sativa & CBD"
+      "aroma": "Piney, Gas, Skunky",
+      "effect": "Sedative, Long-Lasting, Heavy, Immediate",
+      "strainmap": "If you want crystal-clear thoughts and insights into your future, this OG strain is for you.",
+      "conspiracy": "Long thought to exhibit paranormal phenomena, Crystal Skulls have been a popular subject in numerous science fiction films, television shows, novels, and video games. Some even believe crystal skulls lead to miracles. Adventurer and archaeologist Anna Mithcell-Hedges alleges a skull she discovered in 1924 caused visions and could even cure cancer. She claimed that in one of these visions, she was warned of the future assassination of JFK. Shockingly, she even claimed she once used its magical powers to kill a man.",
+      "description": "A relatively recent OG descendent, Crystal Skull OG is a highly potent strain that was gifted to 3C farms by Moxie. One of our most pungent strains, Crystal Skull OG has been described as having a mild fuel-like aroma. Like other OG strains, Crystal Skull OG produces relaxing and sedative effects."
     },
-    {
+    {  
       "id": 5,
-      "title": "3C AC OG",
-      "excerpt": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
-      "description": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
+      "category": "Indica",
+      "mix": 0,
+      "title": "ENOCH OG",
+      "genetics": "Valley Girl OG",
       "image": "https://picsum.photos/200?random=1",
       "images": [
+        "https://picsum.photos/500?random=1",
         "https://picsum.photos/500?random=2",
         "https://picsum.photos/500?random=3",
         "https://picsum.photos/500?random=4"
       ],
-      "flavors": [],
-      "mix": "2:1 CBD:THC",
-      "category": "Sativa & CBD"
+      "origin": " Bryan’s Personal Stash",
+      "aroma": "Piney, Earthy, Skunky",
+      "effect": "Euphoric, Relaxing, More Gradual Onset Than Most OG Kush Strains",
+      "strainmap": "Get ready for a journey of biblical proportions.",
+      "conspiracy": " Enoch first appears in the book of Genesis as the seventh of ten pre-flood patriarchs. Genesis 5 presents a genealogy of these ten men from Adam to Noah, detailing the age at which each became a father and the age at which they died. Curiously, Enoch’s date of death is not revealed, as he is said to have “not seen death.” The secrets of the universe are said to have been bestowed upon Enoch by God himself. With angels at his side, Enoch carries out God’s decrees for 365 years.",
+      "description": "An early descendant of Josh D’s “OG Kush,” and is our take on the celebrated “Valley Girl OG Kush,” Enoch OG is an exceptional phenotype, having a sweeter taste and a denser structure than many of its OG relatives. It is also known to “creep up” on people, with a slower onset than other similar strains."
     },
     {
       "id": 6,
-      "title": "3C ACDC",
-      "excerpt": "50/50 hybrid with extremely powerful effects on both the mind and body. Very skunky flavor and scent carry from frosty pastel caylexes.",
-      "description": "ACDC is a sativa-dominant phenotype of the high CBD cannabis strain, Cannatonic. One remarkable characteristic of ACDC is it’s THC:CBD ratio of 1:20, meaning this strain induces no psychoactive effects. Tests have put our 3C ACDC’S CBD content as high as 20.5% which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
-      "image": "https://picsum.photos/200?random=5",
+      "category": "Indica",
+      "mix": 0,
+      "title": "TAHOE OG",
+      "genetics": "OG Kush x SFV OG Kush",
+      "image": "https://picsum.photos/200?random=1",
       "images": [
         "https://picsum.photos/500?random=1",
         "https://picsum.photos/500?random=2",
         "https://picsum.photos/500?random=3",
         "https://picsum.photos/500?random=4"
       ],
-      "flavors": ["Skunk", "Orange", "Piney"],
-      "mix": "20:1 CBD:THC",
-      "category": "Sativa & CBD"
+      "origin": " ",
+      "aroma": "Piney, Gas, Skunky",
+      "effect": "Quick-Hitting, Euphoric, Relaxing, Cerebral",
+      "strainmap": "Enter the forest with this dense, piney OG.",
+      "conspiracy": "",
+      "description": " A very well-rounded strain, Tahoe OG Kush is a dense and piney varietal named after the California city in which it is said to have originated. Not too overwhelming, Tahoe OG is famous for its euphoric effects and great taste"
+    },
+    {
+      "id": 7,
+      "category": "Indica",
+      "mix": 0,
+      "title": "MAJESTIC 12",
+      "genetics": "Obama Kush x Space Queen ",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Created by Terraform Genetics",
+      "aroma": "Chocolate,Lavender, Sweet",
+      "effect": "Euphoric Body High, Sedative, Relaxing, Focused",
+      "strainmap": "Liftoff to space with this other-worldly strain.",
+      "conspiracy": " M-12 is thought to be a code name for a secret committee of scientists, government officials, and military leaders formed in 1947 by President Harry Truman in response to a UFO crash landing in Roswell, New Mexico. This organization is believed to be responsible for the subsequent cover-up and disinformation campaign.",
+      "description": " Majestic-12 has effects similar to that of Bubba Kush and Granddaddy Purple, specifically a relaxing body high. It is often used late at night before bedtime, helping the body and mind wind down from a long day. It has a purple tinge, scattered with bright orange hairs, and a sweet, yet earthy aroma and flavor, making it appealing to the senses."
+    },
+    {
+      "id": 8,
+      "category": "Indica",
+      "mix": 0,
+      "title": "GRAPE KRUSH",
+      "genetics": "Kraken x Majestic 12 ",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Created by 3C Farms",
+      "aroma": "Grape, Sweet, Lavender",
+      "effect": "Long-Lasting, Heavy, Sedative, Euphoric, Delayed Effects",
+      "strainmap": "If the Kraken were in the wine business, this would be his masterpiece.",
+      "conspiracy": "",
+      "description": " By crossing two of our most popular strains- Majestic-12 and Kraken- we were able to create a delicious and potent strain we call Grape Krush. The name comes from the distinctly grape aroma and Flavor. Indulgers in this strain will feel its effects gradually and can expect euphoric and mild sedative effects. Grape Krush can be enjoyed at night or during the day. "
+    },
+    {
+      "id": 9,
+      "category": "Indica",
+      "mix": 0,
+      "title": "KUSH COOKIES",
+      "genetics": "Thin Mint GSC x Illuminati OG (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Created by 3C Farms",
+      "aroma": "Lavender, Piney, Chocolate",
+      "effect": "Immediate, Heavy, Euphoric, Cerebral, Creative",
+      "strainmap": "A unique cross of a cannabis classic and a 3C original",
+      "conspiracy": "",
+      "description": "  Since cannabis connoisseurs got their first taste of Thin Mint, demand for the strain exploded. At 3C, we’d hate to deprive our customers of such a legendary strain, so we decided to grow it ourselves. The downside: Thin Mint is infamously low-yielding. But we weren’t going to let that stand in our way. By crossing Thin Mint with our Illuminati OG, we were able to maintain the most desirable traits of Thin Mint, while vastly improving upon the strain’s small nug-structure. The final product is a dense purple-green strain with all of the essential traits of Thin Mint. Kush Cookies is a masterful cross, and we highly recommend giving it a try. You won’t be disappointed! "
+    },
+    {
+      "id": 10,
+      "category": "Indica",
+      "mix": 0,
+      "title": "GELATO 33 ",
+      "genetics": "(Sunset Sherbert x Thin Mint GSC) = Gelato #33",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " ",
+      "aroma": "Sour, Sweet, Pepper",
+      "effect": "Uplifted, Euphoric, Relaxing, Cerebral",
+      "strainmap": "A sweet strain to get you relaxed and feeling good.",
+      "conspiracy": "",
+      "description": " True Gelato phenotypes all come from breeding Sunset Sherbert with Thin Mint Cookies.That doesn’t mean that all Gelato strains are the same. The genetics of the root plants are incredibly important, and ours are the cream of the crop. Our Gelato 33 is an indica-dominant hybrid with dense buds and bright orange hairs. The flower color ranges from purple to green and can vary between plants or even in individual plants, with purple overtaking green the closer you get to the top colas. The uplifting effects of this strain have been known to especially help those that suffer from depression or anxiety."
+    },
+    {
+      "id": 11,
+      "category": "Indica",
+      "mix": 0,
+      "title": "BLACK LOTUS",
+      "genetics": "OG Kush x Purple Nepal (NorCal: “The Six”)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Created in San Francisco",
+      "aroma": "Grape, Lavender, Sweet",
+      "effect": "Heavy, Sedative, Relaxing, Euphoric",
+      "strainmap": "A Magical Flower That Delivers A Strong High.",
+      "conspiracy": " In “MAGIC: the Gathering,” The \"Power Nine\" is a set of nine cards that were only printed early in the game's history. This set of cards consisted of Black Lotus, Ancestral Recall, Time Walk, Mox Pearl, Mox Sapphire, Mox Jet, Mox Ruby, Mox Emerald, and Timetwister. All nine cards are of the rarest level and were printed only in the Alpha, Beta, and Unlimited sets in the early nineties. Currently, all \"Power Nine\" cards are restricted from gameplay on account of being too powerful.",
+      "description": "  Black Lotus got its name from its tendency to turn a purple-black late into its flowering cycle. With a floral aroma common amongst purple strains, combined with the piney aroma endemic to OG strains, Black Lotus is a unique strain and a favorite of many cannabis lovers. "
+    },
+    {
+      "id": 12,
+      "category": "Indica",
+      "mix": 0,
+      "title": "BANANA SPLIT",
+      "genetics": "Kraken x Banana OG Kush ",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Created by 3C Farms",
+      "aroma": "Banana, Sweet, Skunky",
+      "effect": "Long-Lasting, Gradual Onset, Heavy, Creative, Euphoric",
+      "strainmap": "Release Your Inner Kraken With This Unique Hybrid.",
+      "conspiracy": "",
+      "description": " We combined two of our most coveted strains to create this wonderful hybrid. This cultivar combines two very different varietals to produce one of our most potent strains, with total cannabinoids often over 30%. Sometimes, opposites attract, and in this case, opposites connected to bring you this sweet and potent strain. "
+    },
+    {
+      "id": 13,
+      "category": "Indica",
+      "mix": 0,
+      "title": "COCOA DULCE",
+      "genetics": "Northern Lights x Illuminati OG Kush (Original 3C) CBT",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Created by 3C Farms",
+      "aroma": "Coffee, Chocolate, Gas",
+      "effect": "Heavy, Relaxing, Focused, Sedative, Euphoric",
+      "strainmap": "Indulge In This Mysterious Chocolate Delight.",
+      "conspiracy": " The Dulce Base in New Mexico near the Colorado border is an alleged underground secret military base. Paul Bennewitz first suspected its existence in 1979 after claiming to intercept electronic communications from alien spacecrafts and installations outside Albuquerque. The story began to spread rapidly throughout the UFO community, and by 1987, UFOlogist John Lear claimed he had independently verified the base’s existence. Many people believe that the base is jointly run by grey aliens and Humans.",
+      "description": " One of our newer strains, Cocoa Dulce is a cross between Northern Lights and our Illuminati OG Kush. Northern Lights is a classic strain, known for its earthy aroma and very euphoric high, while Illuminati OG is more piney, producing a more sedative high. The resulting cross-strain brings the best qualities of its parents, producing a relaxing euphoria that lasts for hours."
+    },
+    {
+      "id": 14,
+      "category": "Indica",
+      "mix": 0,
+      "title": "CLOCKWORK ELVES (INDICA)",
+      "genetics": "Indica Flower Coated In Indica Keef (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Created by 3C Farms",
+      "aroma": "Banana, Sweet, Skunky",
+      "effect": "Immediate, Sedative, Heavy, Long-Lasting",
+      "strainmap": "Open Your Mind And See The World As It Really Is.",
+      "conspiracy": " Clockwork Elves, also known as machine elves, fractal elves, and self-transforming elf machines are often reported as being seen by individuals using tryptamine-based psychedelic drugs, especially DMT. They are said to stand between three and four feet tall and are often described as glowing, luminescent, or crystal-like beings. They are reported to be low to nonaggressive in their behavior, and are believed to exist in the astral plane of reality.",
+      "description": " A 3C favorite, our Clockwork Elves indica variety is an extremely potent combination of indica flower and indica-derived kief. Each nug is rolled in kief, giving it a tan to brown color. For those of you wondering what kief is, it is pure resinous tricomb powder with a very high THC content. There is no standard indica strain chosen, so each batch of Clockwork Elves is slightly different, making this combination as mysterious as the elves themselves."
+    },
+    {
+      "id": 15,
+      "category": "Indica",
+      "mix": 0,
+      "title": "MOON ROAX ",
+      "genetics": "Indica Flower x Indica Oil x Indica Keef (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Created by 3C Farms",
+      "aroma": "Banana, Sweet, Skunky",
+      "effect": "",
+      "strainmap": "The Landing May Have Been A Hoax, But This Fabulous Concoction Is 100% Legit.",
+      "conspiracy": "In 1969, man first walked on the moon; or did he? The world watched as astronaut Niel Armstrong made the first footprint on the moon. Since then, conspiracy theorists have scrutinized the video of the moon landing, leading them to believe the entire event was a hoax. ",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "category": "Indica",
+      "mix": 0,
+      "title": "ELEMENT 115 ",
+      "genetics": "Moscovium",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": " Unknown",
+      "aroma": "Banana, Sweet, Skunky",
+      "effect": "Highly Radioactive",
+      "strainmap": "How Do Aliens Navigate The Universe? How Did We Create This Strain? You May Never Know.",
+      "conspiracy": " Although element 115, or Moscovium wasn’t actually synthesized until 2003, Robert “Bob” Lazar claims to have examined an alien spacecraft in the late 1980’s that ran on the element. He reports that he investigated the craft at a secret site called “S-4” near Groom Lake, Nevada.",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "category": "Sativa",
+      "name": "AGENT TANGIE",
+      "genetics": "California Orange x Skunk",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin":" ",
+      "aroma": "Sour, Orange, Tangerine Peel",
+      "effect": "Slower Onset, Creative, Euphoric, Energetic",
+      "strainmap": "Open A Jar And Journey To A Fragrant Citrus Grove.",
+      "conspiracy": "",
+      "description": "Tangie is a classic sativa strain, known for its fluffy nugs and citrusy aroma and flavor. Our take on this classic is a bit more dense, but stays true to the strain’s origins. Like most sativas, Agent Tangie produces a euphoric and energetic high, perfect for daytime enjoyment."
+    },
+    {
+      "id": 18,
+      "category": "Sativa",
+      "name": "BLU CHARDONNAY",
+      "genetics": "Kraken x Berry Noir ",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": "Created by 3C Farms",
+      "aroma": "Flowery, Creamy, Grape",
+      "effect": "Easy Onset, Creative, Euphoric, Long-Lasting",
+      "strainmap": "Ride The Pale Horse With This Pungent Sativa Strain.",
+      "conspiracy": "William Cooper’s modern classic, “Behold A Pale Horse,” is a favorite among conspiracy theorists. In this masterwork, he delves into many subjects, including the JFK assassination, secret governments, and UFO’s. ",
+      "description": "Blu Chardonnay is one of those strains in the “must-try” category. This aromatic sativa cultivar delivers a blast of wildberry and wildflower aromas as soon as you open the jar. The effects build slowly and are highly euphoric and long-lasting."
+    },
+    {
+      "id": 19,
+      "category": "Sativa",
+      "name": "CLOCKWORK ELVES (SATIVA)",
+      "genetics": "Sativa Flower Coated In Sativa Keef (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": "Created by 3C Farms",
+      "aroma": "Tangerine Peel, Sour, Orange",
+      "effect": "Immediate, Creative, Uplifting, Long-Lasting",
+      "strainmap": "Open Your Mind And See The World As It Really Is.",
+      "conspiracy": "Clockwork Elves, also known as machine elves, fractal elves, and self-transforming elf machines are often reported as being seen by individuals using tryptamine-based psychedelic drugs, especially DMT. They are said to stand between three and four feet tall and are often described as glowing, luminescent, or crystal-like beings. They are reported to be low to nonaggressive in their behavior, and are believed to exist in the astral plane of reality.",
+      "description": "The Clockwork Elves sativa variety is an extremely potent combination of sativa flower and sativa-derived kief. Each nug is rolled in kief, giving it a tan to brown color. For those of you wondering what kief is, it is pure resinous tricomb powder with a very high THC content. There is no standard sativa strain chosen, so each batch of Clockwork Elves is slightly different, making this combination as mysterious as the elves themselves."
+    },
+    {
+      "id": 20,
+      "category": "Sativa",
+      "name": "CHEMDAWG TRAILS",
+      "genetics": "Nepalese x Thai",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin":" ",
+      "aroma": "Skunky, Sour, Gas",
+      "effect": "Euphoric, Uplifting, Focused, Cerebral",
+      "strainmap": "Fly High And Have Fun With This Original Sativa Strain.",
+      "conspiracy": "Look up to the sky. See those long, white trails that look like clouds? Proponents of the chemtrail conspiracy believe many of these trails are not simply condensation, but instead chemical agents with unknown effects. Many speculate that the chemicals may serve nefarious purposes, such as solar radiation management, weather modification, psychological manipulation, population control, or even chemical warfare.",
+      "description": "A combination of far-east strains Nepalese and Thai, Chemdawg Trails produces an energetic, yet focused effect, making it perfect for daytime use. This strain can be enjoyed before and during  a long day to keep you on task, but not overwhelmed. "
+    },
+    {
+      "id": 21,
+      "category": "Sativa",
+      "name": "PROJECT BLUE BOOK",
+      "genetics": "Blue Dream x Conspiracy Kush",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": "Created by 3C Farms",
+      "aroma": "Sweet, Orange, Watermelon",
+      "effect": "Uplifting, Euphoric, Creative, Focused",
+      "strainmap": "Mysterious, Other-Wordly, And Delicious.",
+      "conspiracy": "Started in 1952, Project Blue Book was the third in a series of U.S. Air Force UFO studies, following projects “signs” in 1947 and “Grudge” in 1949. Project Blue Book had two main goals: to determine whether UFOs were a threat to national security and to collect and analyze UFO-related data. Thousands of UFO reports were studied by the Air Force during the program’s lifespan.",
+      "description": "Project Blue Book is a unique cross grown exclusively by 3C farms. It is our most creative strain, perfect for writers, advertising executives, and other people that rely on creativity in their crafts. It has a sweet and citrusy aroma and flavor and is perfect for daytime use. "
+    },
+    {
+      "id": 22,
+      "category": "Sativa",
+      "name": "LIME SHERBERT",
+      "genetics": "Kraken x Project Blue Book (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": "Created by 3C Farms",
+      "aroma": "Lime, Sweet, Piney",
+      "effect": "Uplifting, Focused, Cerebral, Long-Lasting",
+      "strainmap": "Sweet And Flavorful, WIth More Than A Hint Of Citrus.",
+      "conspiracy": "",
+      "description": "A favorite among staff, Lime Sherbert is easy to love. It has an aroma so pleasant, you may want to leave your jar open to liven up your home. Lime Sherbert is a rather fluffy strain, great for rolling and vaping, with an uplifting effect perfect for improving your mood when you wake up on the wrong side of the bed."
+    },
+    {
+      "id": 23,
+      "category": "Sativa",
+      "name": "JACK KRAKEN",
+      "genetics": "Authentic Jack Herer Gifted to us by Dan Herer (Northern Lights #5 x Shiva Skunk)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": "Gifted by Dan Herer and The Herer Family",
+      "aroma": "Minty, Piney, Sour",
+      "effect": "Cerebral, Creative, Euphoric, Well-Rounded, Relaxing",
+      "strainmap": "The Man Meets The Myth. A Legendary Grower Meets A Legendary Monster.",
+      "conspiracy": "The Kraken is a legendary squid-like sea monster of giant size (40-50 feet in length). It was first described by an anonymous Norweigan author in the 13th century in a work called the Konungs skuggsjá. According to legend, the Kraken terrorizes sailors off the coasts of Norway and Greenland.",
+      "description": "Jack Herer is a sativa-dominant strain that is famous the world over. Named after the author of “The Emperor Wears No Clothes,” the strain is a combination of a northern lights #5 and shiva skunk. Consumers describe the effects as blissful, clear-headed, and creative. It was gifted to us by Dan Herer, and we are sincerely grateful. We are proud to grow Jack Kraken, and we grow it well, allowing the strain to reach its maximum potential."
+    },
+    {
+      "id": 24,
+      "category": "Sativa",
+      "name": "STRAWBERRY FIELDS",
+      "genetics": "Strawberry Cough x Space Queen (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin":" ",
+      "aroma": "Sweet, Tangerine Peel, Strawberry",
+      "effect": "Slow Onset, Euphoric, Uplifting, Creative",
+      "strainmap": "Strawberry Fields Forever",
+      "conspiracy": "",
+      "description": "“Strawberry Fields Forever” is considered by many music historians to be the first psychedelic songs ever written by the Beatle. All four Beatles were cannabis lovers, so a strain named after their song is wonderfully poetic. This strain truly lives up to its name, with a sweet aroma that reminds us of its namesake."
+    },
+    {
+      "id": 25,
+      "category": "Sativa",
+      "name": "HIGH JUMP",
+      "genetics": "Sour Diesel x NorCal Kush (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin":" ",
+      "aroma": "Sour, Piney, Earthy",
+      "effect": "Quick Onset, Creative, Focused, Cerebral",
+      "strainmap": "This Strain Will Leave You Shivering With Joy.",
+      "conspiracy": "In 1946/1947, the US Navy Launched “Operation High Jump.” a mission that involved sending multiple ships to Antarctica. While the official explanation for the expedition was that it was one of exploration and discovery, many wondered why the navy sent so many warships. Admiral Richard Byrd led the expedition, and the notes he took have become the stuff of legend. He claims to have discovered evidence of a secret underground alien base, which led him to propose his “Hollow Earth” theory, which claims the earth’s core is not solid, but instead hollow and inhabited by aliens.",
+      "description": "High Jump, a hybrid of Sour Diesel and NorCal Kush, is a powerful strain with a quick onset. It has a very piney aroma, producing a clean smell like a freshly-cleaned cabin. Many have described the high as cerebral and creative, making it a good choice for creative people or those looking to become more creative. So, smoke a bowl and start that novel you’ve been meaning to write."
+    },
+    {
+      "id": 26,
+      "category": "Sativa",
+      "name": "SASQUATCH SAP",
+      "genetics": "Chem Sister x Choco Diesel x Sour Dub (Gorilla Glue #4)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin":" ",
+      "aroma": "Sweet, Gas, Piney",
+      "effect": "Quick Onset, Creative, Relaxing, Well-Rounded",
+      "strainmap": "The Sasquatch Is Legendary Creature And This Is A Legendary Strain.",
+      "conspiracy": "Part of North American Folklore, Sasquatch, or Bigfoot, is said to be a tall, hairy, ape-like creature who walks upright. These creatures are strongly associated with the Pacific Northwest, specifically, Oregon, Washington, British Columbia, and Northern California. Numerous sightings have been reported, but the Sasquatch is elusive, making him difficult to find.",
+      "description": "Sasquatch is more than a legendary creature; it is also a legendary strain. Our take on Gorilla Glue #4, Sasquatch Sap is our most popular sativa and one of our most popular strains overall. It has the most well-rounded effects of all our sativa strains, producing a relaxing, yet joyful high. "
+    },
+    {
+      "id": 27,
+      "category": "Sativa",
+      "name": "Q (a.k.a QANON)",
+      "genetics": "Do-si-Dos",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin":" ",
+      "aroma": "Sour, Flowery, Pepper",
+      "effect": "",
+      "strainmap": "A Newer Sour And Well-Rounded Strain.",
+      "conspiracy": "Q, or QANON, is an online, modern-day purveyor of conspiracy theories. ",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "category": "Sativa",
+      "name": "STRAWBINATI ",
+      "genetics": "Strawberry Fields x Illuminati OG Kush x Fruity Pebbles (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": "Created by 3C Farms",
+      "aroma": "Strawberry, Gas, Sour",
+      "effect": "",
+      "strainmap": "A Hybrid Of Two Of Our Most Popular Strains",
+      "conspiracy": "",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "category": "CBD",
+      "name": "AC / DC",
+      "genetics": "Cannatonic (20:1 CBD Dominant)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": "Gifted by Moxie",
+      "aroma": "Nutty, Honey, Earthy",
+      "effect": "Non-Intoxicating, Mild, Focused, Calming, Long-Lasting",
+      "strainmap": "For Those About To Rock, We Have The Strain For You.",
+      "conspiracy": "",
+      "description": "AC/DC, also known as Cannatonic because it produces a relatively short-lived, non-intoxicating effect, is our most potent CBD-dominant strain. CBD, the second most common cannabinoid, is currently the subject of massive research. It helps treat pain, muscle spasms, anxiety, migraines, and a wide variety of other psychological and physiological symptoms. Most phenotypes present a slightly earthy aroma, with hints sugar and citrus. "
+    },
+    {
+      "id": 30,
+      "category": "CBD",
+      "name": "AC / OG ",
+      "genetics": "Cannatonic [AC/DC] x Illuminati OG Kush (2:1 CBD Dominant) (Original 3C)",
+      "image": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/500?random=1",
+        "https://picsum.photos/500?random=2",
+        "https://picsum.photos/500?random=3",
+        "https://picsum.photos/500?random=4"
+      ],
+      "origin": "Created by 3C Farms",
+      "aroma": "Skunky, Honey, Earthy",
+      "effect": "Pain Relief, Mild, Focused, Calming, Relaxing, Long-Lasting",
+      "strainmap": "A Perfect Hybrid For Those Looking For A Relaxing High And The Medicinal Effects Of CBD.",
+      "conspiracy": "",
+      "description": "This award-winning strain was hard to get right, but it was worth the wait. It is very difficult to produce a 2:1, CBD-dominant strain, but after years of effort, we did it. In choosing to cross AC/DC with our Illuminati OG Kush, we created an extraordinarily well-rounded pheno you just have to try to believe. "
     }
   ]
 }
+
